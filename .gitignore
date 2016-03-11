@@ -6,3 +6,4 @@ packages/**
 .hgignore
 **.nupkg
 TestResults/**
+**.csproj.user
